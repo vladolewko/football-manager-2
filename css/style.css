@@ -1,0 +1,195 @@
+html {
+    font-size: 1px;
+}
+
+body {
+    background: #f3f3f3;
+    font-family: "Arial", sans-serif;
+    font-size: 14rem;
+    margin: auto;
+}
+
+.wrapper {
+    max-width: 960rem;
+    background-color: #fff;
+    margin: auto;
+    padding: 0 15rem;
+}
+
+.header {
+display: flex;
+    padding: 15rem 0;
+   justify-content: space-between;
+}
+
+.hat {
+    display: flex;
+  max-width: 100%;
+    
+    justify-content: space-between;
+}
+.logo{
+    display: inline-block;
+}
+.logo img{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.hat p {
+    font-size: 14rem;
+    color: #5a5a5a;
+   padding-left: 8rem;
+    margin: 0;
+}
+
+.hat b {
+    font-size: 24rem;
+    text-transform: uppercase;
+    color: #39930d;
+    display: block;
+}
+
+
+.contacts {
+    display: flex;
+
+    justify-content: space-between;
+}
+.number{
+    padding-left: 30rem;
+}
+
+
+.contacts p {
+    margin: 0;
+    font-size: 14rem;
+    color: #5a5a5a;
+    font-weight: bold;
+    
+}
+
+.graf{
+    display: inline;
+  
+}
+.contacts img{
+    margin-top: 3.5%;
+    margin-right: 3rem;
+}
+
+.contacts a {
+    margin: 0;
+    font-size: 14rem;
+    color: #5a5a5a;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+.bigpicture img {
+    width: 100%;
+    padding-bottom: 10rem;
+}
+
+.littlepicture img{
+    max-width: 24%;
+    margin: 0;
+   
+}
+.littlepicture{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30rem;
+}
+
+.partners {
+    width: 30%;
+    
+}
+
+
+
+.partners p {
+    padding: 15rem 20rem;
+    margin: 0;
+    font-size: 18rem;
+    background: #39930d;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+}
+
+.partners a {
+    font-size: 14rem;
+    line-height: 30rem;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: #343434;
+}
+
+h1 {
+    font-size: 24rem;
+margin: 0;
+    color: #39930d;
+    font-weight: bold;
+}
+.about{
+    display: flex;
+    justify-content: space-between;
+}
+
+.maininf {
+  
+    width: 65%;
+}
+
+.maininf p {
+
+    font-size: 14rem;
+    line-height: 21rem;
+    color: #343434;
+}
+
+.footer {
+   
+    background-color: #38930c;
+    padding: 12rem 120rem;
+    margin: 0 -120rem;
+}
+.copy{
+    padding-left: 16%;
+}
+.footer{
+    width: 100%;
+    padding: 14rem 0;
+    margin: auto;
+   
+}
+.wrapperbottom{
+    margin: auto;
+    max-width: 960rem;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.copy {
+  padding: 0; 
+   
+   
+}
+.copy p{
+    color: #fff;
+    margin: 0;
+    display: inline-block;
+    width: 100%;
+}
+.footer img{
+    margin: 0;
+}
